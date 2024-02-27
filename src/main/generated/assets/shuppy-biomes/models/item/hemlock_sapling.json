@@ -1,3 +1,6 @@
 {
-  "parent": "shuppy-biomes:block/hemlock_sapling"
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "shuppy-biomes:block/hemlock_sapling"
+  }
 }
