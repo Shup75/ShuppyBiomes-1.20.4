@@ -1,0 +1,5 @@
+// 1.20.4	2024-02-26T20:38:25.3081462	Shuppy Biomes/Tags for minecraft:block
+db53a81f313b6337ee1354b29d3b798b7f301338 data\minecraft\tags\blocks\fence_gates.json
+34b1dc5389d07c615b421364bab00f7ef1ddf1ef data\minecraft\tags\blocks\fences.json
+84318f49996357fa2c831a20016af9e3c8744a9c data\minecraft\tags\blocks\leaves.json
+49049a3f4e7969274e2f0827bddba29a8d168914 data\minecraft\tags\blocks\mineable\axe.json

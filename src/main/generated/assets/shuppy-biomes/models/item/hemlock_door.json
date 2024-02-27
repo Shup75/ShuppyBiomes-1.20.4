@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "shuppy-biomes:item/hemlock_door"
+  }
+}

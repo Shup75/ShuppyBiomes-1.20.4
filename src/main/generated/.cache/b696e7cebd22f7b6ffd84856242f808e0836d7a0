@@ -1,0 +1,16 @@
+// 1.20.4	2024-02-26T20:38:25.3071428	Shuppy Biomes/Block Loot Tables
+8f5a34d80a09e5f4122e3ac093c79ccec9c3b47f data\shuppy-biomes\loot_tables\blocks\hemlock_sapling.json
+99ae5a55c4ababfbbe9ab4df63c21d229b2b85c7 data\shuppy-biomes\loot_tables\blocks\hemlock_planks.json
+b2057d387d34ae8ab1e9492c2872de60084cab15 data\shuppy-biomes\loot_tables\blocks\hemlock_button.json
+1da16da2646c8c1edc2271d961a3a50c544ccc95 data\shuppy-biomes\loot_tables\blocks\hemlock_pressure_plate.json
+1930b14faa6aa5c07f0952a227900861f0d9884a data\shuppy-biomes\loot_tables\blocks\hemlock_door.json
+87c60632703742e119fa79a56494bb9c9b2a096f data\shuppy-biomes\loot_tables\blocks\hemlock_trapdoor.json
+2010d900decfdfa8cc516c5374513b7e08f1aa92 data\shuppy-biomes\loot_tables\blocks\hemlock_fence_gate.json
+181353b7fa1c2cd97d2c5313aef8f5ccaa66333c data\shuppy-biomes\loot_tables\blocks\stripped_hemlock_wood.json
+8c8fb0c0be26e5fdade7895ef2ee7c7ef9df68c9 data\shuppy-biomes\loot_tables\blocks\hemlock_log.json
+754e0865318bdc7c949b3d93d47168b5a60e07ba data\shuppy-biomes\loot_tables\blocks\stripped_hemlock_log.json
+211428141e8391e11423fbe1b4167fe2f437999f data\shuppy-biomes\loot_tables\blocks\hemlock_slab.json
+a593c23690ae800c0bceb5d7c0817f9bdd9438a4 data\shuppy-biomes\loot_tables\blocks\hemlock_fence.json
+c56b8325a13bc8901970bc51e4ce51c4d6e07a19 data\shuppy-biomes\loot_tables\blocks\hemlock_leaves.json
+9bd03186d8ced6d5219cd157335f4cc60ed53ff2 data\shuppy-biomes\loot_tables\blocks\hemlock_wood.json
+f27345c35537d3c06eb17a07d157665890cac8cf data\shuppy-biomes\loot_tables\blocks\hemlock_stairs.json

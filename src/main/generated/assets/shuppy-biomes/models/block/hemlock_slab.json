@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "shuppy-biomes:block/hemlock_planks",
+    "side": "shuppy-biomes:block/hemlock_planks",
+    "top": "shuppy-biomes:block/hemlock_planks"
+  }
+}

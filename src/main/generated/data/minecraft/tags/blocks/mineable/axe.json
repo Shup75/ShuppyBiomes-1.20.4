@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "shuppy-biomes:hemlock_log",
+    "shuppy-biomes:hemlock_wood",
+    "shuppy-biomes:stripped_hemlock_log",
+    "shuppy-biomes:stripped_hemlock_wood",
+    "shuppy-biomes:hemlock_planks",
+    "shuppy-biomes:hemlock_stairs",
+    "shuppy-biomes:hemlock_slab",
+    "shuppy-biomes:hemlock_button",
+    "shuppy-biomes:hemlock_pressure_plate",
+    "shuppy-biomes:hemlock_fence",
+    "shuppy-biomes:hemlock_fence_gate",
+    "shuppy-biomes:hemlock_door",
+    "shuppy-biomes:hemlock_trapdoor"
+  ]
+}

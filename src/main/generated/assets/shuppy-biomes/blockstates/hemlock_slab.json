@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "shuppy-biomes:block/hemlock_slab"
+    },
+    "type=double": {
+      "model": "shuppy-biomes:block/hemlock_planks"
+    },
+    "type=top": {
+      "model": "shuppy-biomes:block/hemlock_slab_top"
+    }
+  }
+}

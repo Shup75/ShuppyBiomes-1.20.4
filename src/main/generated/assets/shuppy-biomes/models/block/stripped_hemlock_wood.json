@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "shuppy-biomes:block/stripped_hemlock_log",
+    "side": "shuppy-biomes:block/stripped_hemlock_log"
+  }
+}

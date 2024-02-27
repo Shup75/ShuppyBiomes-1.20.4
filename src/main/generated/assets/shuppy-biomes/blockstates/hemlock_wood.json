@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "shuppy-biomes:block/hemlock_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "shuppy-biomes:block/hemlock_wood"
+    },
+    "axis=z": {
+      "model": "shuppy-biomes:block/hemlock_wood",
+      "x": 90
+    }
+  }
+}

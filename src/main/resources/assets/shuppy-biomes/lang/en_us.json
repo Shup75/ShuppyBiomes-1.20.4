@@ -2,6 +2,27 @@
   "item.shuppy-biomes.hemlock_boat": "Hemlock Boat",
   "item.shuppy-biomes.hemlock_chest_boat": "Hemlock Chest Boat",
 
+  "block.shuppy-biomes.hemlock_log": "Hemlock Log",
+  "block.shuppy-biomes.hemlock_wood": "Hemlock Wood",
+  "block.shuppy-biomes.stripped_hemlock_log": "Stripped Hemlock Log",
+  "block.shuppy-biomes.stripped_hemlock_wood": "Stripped Hemlock Wood",
+  "block.shuppy-biomes.hemlock_planks": "Hemlock Planks",
+
+  "block.shuppy-biomes.hemlock_stairs": "Hemlock Stairs",
+  "block.shuppy-biomes.hemlock_slab": "Hemlock Slab",
+
+  "block.shuppy-biomes.hemlock_button": "Hemlock Button",
+  "block.shuppy-biomes.hemlock_pressure_plate": "Hemlock Pressure Plate",
+
+  "block.shuppy-biomes.hemlock_fence": "Hemlock Fence",
+  "block.shuppy-biomes.hemlock_fence_gate": "Hemlock Fence Gate",
+
+  "block.shuppy-biomes.hemlock_door": "Hemlock Door",
+  "block.shuppy-biomes.hemlock_trapdoor": "Hemlock Trapdoor",
+
+  "block.shuppy-biomes.hemlock_leaves": "Hemlock Leaves",
+  "block.shuppy-biomes.hemlock_sapling": "Hemlock Sapling",
+
   "itemgroup.shuppy-biomes-group": "Shuppy Biomes"
 
 }

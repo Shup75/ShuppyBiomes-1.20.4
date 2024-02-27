@@ -14,6 +14,18 @@ public class ModItems {
     public static final Item HEMLOCK_BOAT = registerItem("hemlock_boat", new Item(new FabricItemSettings()));
     public static final Item HEMLOCK_CHEST_BOAT = registerItem("hemlock_chest_boat", new Item(new FabricItemSettings()));
 
+
+
+
+
+
+
+
+
+
+
+
+
     private static void addItemsToToolItemGroup(FabricItemGroupEntries entries) {
         entries.add(HEMLOCK_BOAT);
         entries.add(HEMLOCK_CHEST_BOAT);

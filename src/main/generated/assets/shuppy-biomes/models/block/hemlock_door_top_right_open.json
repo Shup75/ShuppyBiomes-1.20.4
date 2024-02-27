@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "shuppy-biomes:block/hemlock_door_bottom",
+    "top": "shuppy-biomes:block/hemlock_door_top"
+  }
+}

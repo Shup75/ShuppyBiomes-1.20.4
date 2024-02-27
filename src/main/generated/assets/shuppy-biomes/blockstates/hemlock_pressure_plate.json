@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "shuppy-biomes:block/hemlock_pressure_plate"
+    },
+    "powered=true": {
+      "model": "shuppy-biomes:block/hemlock_pressure_plate_down"
+    }
+  }
+}
