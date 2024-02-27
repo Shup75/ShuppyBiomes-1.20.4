@@ -19,7 +19,7 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
         getOrCreateTagBuilder(ItemTags.PLANKS)
                 .add(ModBlocks.HEMLOCK_PLANKS.asItem());
 
-        // Allow wooden blocks with same fuel tick as logs (300) to be used as fuel
+
         getOrCreateTagBuilder(ItemTags.LOGS_THAT_BURN)
                 .add(ModBlocks.HEMLOCK_LOG.asItem())
                 .add(ModBlocks.HEMLOCK_WOOD.asItem())

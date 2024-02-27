@@ -16,5 +16,6 @@ public class ShuppyBiomesClient implements ClientModInitializer {
         BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.HEMLOCK_SAPLING, RenderLayer.getCutout());
 
         TexturedRenderLayers.SIGN_TYPE_TEXTURES.put(ModWoodTypes.HEMLOCK, TexturedRenderLayers.getSignTextureId(ModWoodTypes.HEMLOCK));
+
     }
 }

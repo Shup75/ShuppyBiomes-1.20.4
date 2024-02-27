@@ -29,7 +29,6 @@ public class ModItems {
     private static void addItemsToToolItemGroup(FabricItemGroupEntries entries) {
         entries.add(HEMLOCK_BOAT);
         entries.add(HEMLOCK_CHEST_BOAT);
-
     }
 
     private static Item registerItem(String name, Item item) {

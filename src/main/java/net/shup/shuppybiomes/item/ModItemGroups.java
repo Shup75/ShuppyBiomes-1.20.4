@@ -38,8 +38,6 @@ public class ModItemGroups {
                         entries.add(ModBlocks.HEMLOCK_DOOR);
                         entries.add(ModBlocks.HEMLOCK_TRAPDOOR);
 
-
-
                     }).build());
 
     public static void registerItemGroups() {
